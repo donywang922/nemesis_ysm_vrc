@@ -1,1 +1,2 @@
-nemesis_t.ysm -> CC BY-SA
+依赖 aao https://github.com/anatawa12/AvatarOptimizer
+
